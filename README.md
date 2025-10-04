@@ -1,4 +1,4 @@
-# study_file-system-CLI
+# study-file-system-CLI
 
 Implements CLI file system
 
